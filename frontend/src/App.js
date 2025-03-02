@@ -21,7 +21,7 @@ const App = () => {
     setLoading(true);
 
     try {
-      const response = await axios.post("http://localhost:3030/ask", {
+      const response = await axios.post("https://gpt-teaching-assistant.onrender.com/ask", {
         leetcode_url: leetcodeUrl,
         question: question,
       });
