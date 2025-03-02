@@ -9,7 +9,7 @@ The **LeetCode Question Helper** is an AI-powered teaching assistant that helps 
 - Engage in an **interactive chat experience** with an AI tutor that encourages critical thinking and problem-solving skills.
 
 
-🚀 **[TRY THE APPLICATION](#)** **and start solving DSA problems with AI assistance!** 🎯
+🚀 **[TRY THE APPLICATION](https://gpt-teaching-assistant-1.onrender.com/)** **and start solving DSA problems with AI assistance!** 🎯
 
 
 
